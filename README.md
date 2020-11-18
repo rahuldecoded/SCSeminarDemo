@@ -1,2 +1,2 @@
-# SCSeminarDemo
+# SC SeminarDemo
 Cluster Analysis Demo
